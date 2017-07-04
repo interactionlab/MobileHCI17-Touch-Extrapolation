@@ -1,3 +1,4 @@
+# MobileHCI 2017 - Improving Software-Reduced Touchscreen Latency
 Code, model, and data to reproduce the results reported in our [Mobile HCI](https://mobilehci.acm.org/2017) late breaking work "Improving Software-Reduced Touchscreen Latency" by Niels Henze, Huy Viet Le, Sven Mayer, Valentin Schwind.
 
 ## Abstract
@@ -13,4 +14,5 @@ The latency of current mobile devices' touchscreens is around 100ms and has wide
 
 ## References
 [1] Niels Henze, Markus Funk, Alireza Sahami Shirazi: Software-reduced touchscreen latency. Proceedings of the International Conference on Human-Computer Interaction with Mobile Devices and Services, 2016.
+
 [2] Niels Henze, Huy Viet Le, Sven Mayer, Valentin Schwind: Improving Software-Reduced Touchscreen Latency. Adjunct Proceedings of the International Conference on Human-Computer Interaction with Mobile Devices and Services, 2017.
